@@ -31,7 +31,7 @@ Jacob Bowie, PhD
 ::: {.cv-entry}
 **Visiting Assistant Professor**, Exercise Science `#h(1fr)`{=typst}[2026–2027]{.cv-date}
 
-[Department of Kinesiology, University of Connecticut, Storrs, CT. (Appointment begins August 2026.)]{style="color:#5a6470;font-style:italic"}
+[Department of Kinesiology, University of Connecticut, Storrs, CT.]{style="color:#5a6470;font-style:italic"}
 :::
 
 ::: {.cv-entry}
@@ -392,7 +392,7 @@ Skype a Scientist `#h(1fr)`{=typst}[2018–present]{.cv-date}
 ### Coaching, Fitness, and Instruction
 
 - **Master Trainer**, International Sports Sciences Association, with specializations in Strength and Conditioning, Senior Fitness, Exercise Therapy, Fitness Nutrition, and Youth Fitness
-- **USMC Black Belt Instructor**, Marine Corps Martial Arts Program
+- **USMC Black Belt Instructor Trainer**, Marine Corps Martial Arts Program
 
 ## Additional Appointments
 
