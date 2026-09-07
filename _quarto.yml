@@ -75,7 +75,7 @@ format:
               "description": "Statistical analysis and machine learning for human physiology research, with a focus on wearable sensor signal processing, hierarchical Bayesian and mixed-effects modeling, and reproducible analysis pipelines.",
               "url": "https://jacobbowie.com",
               "image": "https://jacobbowie.com/profile.jpg",
-              "email": "mailto:jacob.bowie2@gmail.com",
+              "email": ["mailto:jacob.bowie@uconn.edu", "mailto:jacob.bowie2@gmail.com"],
               "affiliation": [
                 {
                   "@type": "Organization",
